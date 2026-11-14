@@ -1,4 +1,4 @@
-// Apache 2800 Eurorack Plate
+// Apache 2800 Bracket
 // Copyright (c) 2026 William Chrapcynski
 // Licensed under CC BY-NC-SA 4.0
 // https://creativecommons.org/licenses/by-nc-sa/4.0/
