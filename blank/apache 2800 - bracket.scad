@@ -1,4 +1,4 @@
-// Apache 2800 Eurorack Plate
+// Apache 2800 Bracket
 // Copyright (c) 2026 William Chrapcynski
 // Licensed under CC BY-NC-SA 4.0
 // https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -65,7 +65,7 @@ difference() {
                 }
                 translate([post_depth - draft_offset - pad_length, -pad_width /2, 0])
                     cube([pad_length, pad_width, pad_thickness]);
-//                translate([0, gusset_thickness / 2, pad_thickness])
+                translate([0, gusset_thickness / 2, pad_thickness])
                     rotate([90, 0, 0]) 
                         linear_extrude(height = gusset_thickness) 
                             polygon([[0, 0], [-gusset_size, 0], [0, gusset_size]]);
