@@ -1,6 +1,6 @@
 # Apache 2800 Eurorack Top Plate
 
-A plate to use with the Apache 2800 case that can be used to make a small eurorack case.
+A plate to use with the Apache 2800 case that can be used to make a small Eurorack case.
 
 ## SCAD file
 
@@ -15,15 +15,15 @@ Eurorack Plate
 Brackets - You'll need two for this project.
 
 - **Plate:** 213.8 x 149.8 x 3mm, R4 corners, and a 0.5 mm chamfer at the top edge. There is 38HP of module space available.
-- **Strip Channels:** Opening for eurorack threaded insert strips.
+- **Strip Channels:** Opening for Eurorack threaded insert strips.
 - **Bracket:** Three posts on pads that you will need to glue down to the bottom of the case. X-bracing between the posts. The posts take heat-set inserts. Use the short bracket if you want the plate to sink further into the case. Normal bracket is 70mm tall while the short one is 60mm.
 
 ## Hardware
 
 - 4 x M3 heat-set inserts - Bracket holes are 4mm in diameter and 6.5mm deep.
 - 4 x M3 x 8mm button-head screws.
-- 2 x eurorack threaded strip inserts. The ones I used were 5mm x 2mm x 84HP and were cut to fit. You'll want to make sure the first hole is 7.5mm from the end that slides into the channel so that the holes line up properly.
-- An adhesive that bonds to polypropylene such as Loctite Plastics Bonding System (681925). A lot of adhesives might not work well on the plastic this case is made from. You'll want to scuff the area where the pads are glued down to make for better adhesion.
+- 2 x Eurorack threaded strip inserts. The ones I used were 5mm x 2mm x 84HP and were cut to fit. You'll want to make sure the first hole is 7.5mm from the end that slides into the channel so that the holes line up properly.
+- An adhesive that bonds to polypropylene, such as Loctite Plastics Bonding System (681925). Many adhesives don't bond well to the plastic this case is made from. You'll want to scuff the area where the bottom feet pads are glued down to make for better adhesion.
 
 ## Printing
 
