@@ -36,7 +36,7 @@ hp = 5.08;
 // Row Width In HP
 row_hp = 38;
 // Opening Height (Y) 
-opening_height = 108;
+opening_height = 109.5;
 
 /* [Ribs] */
 // Rib Depth - Below the plate
