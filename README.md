@@ -1,5 +1,7 @@
 # Apache 2800 Electronics Project Case
 
+![Eurorack Case](cover.jpg)
+
 This repository contains two projects:
 
 1. Blank Plate - for customizing in your own projects.
