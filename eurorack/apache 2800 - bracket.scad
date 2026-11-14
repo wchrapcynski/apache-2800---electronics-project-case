@@ -54,7 +54,7 @@ $fn = 64;
 
 difference() {
     union() {
-        // Create Posts and Feet
+        // Create Posts, Feet, and Gussets
         for(y = [-post_spacing, 0, post_spacing])
             translate([0, y, 0]) {
                 hull() {
