@@ -3,12 +3,27 @@
 A blank plate to use with the Apache 2800 case that can be used with various projects.
 You'll want to remix this to fit your needs.
 
-## SCAD file
+## Files
+
+- `openscad/` - OpenSCAD source (.scad) and STLs.
+- `freecad/` - FreeCAD source (.FCStd) and STLs. Same dimensions as the OpenSCAD version.
+
+## OpenSCAD
 
 1. Install OpenSCAD from <https://openscad.org> (free).
 2. Open a .scad file and go to Customizer. Every adjustable setting is listed there with a description.
 3. Change the values you need.
 4. Press F6 to render, then File, Export, Export as STL.
+
+## FreeCAD
+
+1. Install FreeCAD 1.1 or newer from <https://www.freecad.org> (free).
+2. Open a .FCStd file and double-click **Params** in the tree. Every adjustable value is listed there by name.
+3. Change the values you need, then press Ctrl+R to recompute.
+4. Select **Body** in the tree, then File, Export, and choose STL.
+
+There's no separate FreeCAD short bracket. Set `bracket_height` to 60 in Params instead.
+The FreeCAD plate has countersunk screw holes. In OpenSCAD, turn on Enable Countersink to match.
 
 ## STL Parts
 
@@ -32,6 +47,8 @@ I used Bambu Labs PLA Tough+ filament with 20% infill and no supports. Make sure
 ## How it was made
 
 I designed this case insert and wrote the OpenSCAD code while learning OpenSCAD, with an AI assistant (Claude) acting as a tutor. I relied on it for much of the math: positioning parts, working out offsets and clearances, and the angles for printing without supports. It explained concepts as we went, and in places supplied code that I then typed, checked and adapted. The design decisions, test prints and fit adjustments are mine. With this being my first major project in OpenSCAD, I learned quite a bit, and I feel more confident in being able to create future projects on my own.
+
+I also rebuilt the blank plate and bracket in FreeCAD in the same way, with Claude walking me through the process step by step. The FreeCAD and OpenSCAD versions should be nearly identical.
 
 ## Disclaimer
 
