@@ -2,12 +2,24 @@
 
 A plate to use with the Apache 2800 case that can be used to make a small Eurorack case.
 
-## SCAD file
+## Files
+
+- `openscad/` - OpenSCAD source (.scad) and STLs.
+- `freecad/` - FreeCAD source (.FCStd) and STLs. Same dimensions as the OpenSCAD version.
+
+## OpenSCAD
 
 1. Install OpenSCAD from <https://openscad.org> (free).
 2. Open a .scad file and go to Customizer. Every adjustable setting is listed there with a description.
 3. Change the values you need.
 4. Press F6 to render, then File, Export, Export as STL.
+
+## FreeCAD
+
+1. Install FreeCAD 1.1 or newer from <https://www.freecad.org> (free).
+2. Open a .FCStd file and double-click **Params** in the tree. Every adjustable value is listed there by name.
+3. Change the values you need, then press Ctrl+R to recompute.
+4. Select **Body** in the tree, then File, Export, and choose STL.
 
 ## STL Parts
 
