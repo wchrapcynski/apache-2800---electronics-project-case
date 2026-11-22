@@ -2,7 +2,7 @@
 
 ![Eurorack Case](cover.jpg)
 
-This repository contains two projects:
+This repository contains two projects with an OpenSCAD and FreeCAD version of each:
 
 1. Blank Plate - for customizing in your own projects.
 2. Eurorack Plate - for creating a 38HP eurorack case.
