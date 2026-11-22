@@ -28,7 +28,7 @@ Brackets - You'll need two for this project.
 
 - **Plate:** 213.8 x 149.8 x 3mm, R4 corners, and a 0.5 mm chamfer at the top edge. There is 38HP of module space available.
 - **Strip Channels:** Opening for Eurorack threaded insert strips.
-- **Bracket:** Three posts on pads that you will need to glue down to the bottom of the case. X-bracing between the posts. The posts take heat-set inserts. Use the short bracket if you want the plate to sink further into the case. The bracket is 70mm tall, but you can edit the file and customzie it as needed.
+- **Bracket:** Three posts on pads that you will need to glue down to the bottom of the case. X-bracing between the posts. The posts take heat-set inserts. Use the short bracket if you want the plate to sink further into the case. The bracket is 70mm tall, but you can edit the file and customize it as needed.
 
 ## Hardware
 
