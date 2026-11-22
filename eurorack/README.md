@@ -28,7 +28,7 @@ Brackets - You'll need two for this project.
 
 - **Plate:** 213.8 x 149.8 x 3mm, R4 corners, and a 0.5 mm chamfer at the top edge. There is 38HP of module space available.
 - **Strip Channels:** Opening for Eurorack threaded insert strips.
-- **Bracket:** Three posts on pads that you will need to glue down to the bottom of the case. X-bracing between the posts. The posts take heat-set inserts. Use the short bracket if you want the plate to sink further into the case. Normal bracket is 70mm tall while the short one is 60mm.
+- **Bracket:** Three posts on pads that you will need to glue down to the bottom of the case. X-bracing between the posts. The posts take heat-set inserts. Use the short bracket if you want the plate to sink further into the case. The bracket is 70mm tall, but you can edit the file and customzie it as needed.
 
 ## Hardware
 
@@ -44,6 +44,8 @@ I used Bambu Labs PLA Tough+ filament with 20% infill and no supports. Make sure
 ## How it was made
 
 I designed this case insert and wrote the OpenSCAD code while learning OpenSCAD, with an AI assistant (Claude) acting as a tutor. I relied on it for much of the math: positioning parts, working out offsets and clearances, and the angles for printing without supports. It explained concepts as we went, and in places supplied code that I then typed, checked and adapted. The design decisions, test prints and fit adjustments are mine. With this being my first major project in OpenSCAD, I learned quite a bit, and I feel more confident in being able to create future projects on my own.
+
+I also rebuilt the Eurorack plate and bracket in FreeCAD in the same way, with Claude walking me through the process step by step. The FreeCAD and OpenSCAD versions should be nearly identical.
 
 ## Disclaimer
 

@@ -13,6 +13,8 @@ See individual README files for more information.
 
 I designed this case insert and wrote the OpenSCAD code while learning OpenSCAD, with an AI assistant (Claude) acting as a tutor. I relied on it for much of the math: positioning parts, working out offsets and clearances, and the angles for printing without supports. It explained concepts as we went, and in places supplied code that I then typed, checked and adapted. The design decisions, test prints and fit adjustments are mine. With this being my first major project in OpenSCAD, I learned quite a bit, and I feel more confident in being able to create future projects on my own.
 
+I also replicated the project in FreeCAD in a similar way, with Claude walking me through the process step by step. The FreeCAD and OpenSCAD versions should be nearly identical.
+
 ## Disclaimer
 
 This is an independent design. I am not affiliated with, endorsed by, or sponsored by Harbor Freight Tools. "Apache" and "Harbor Freight" are trademarks of their respective owners and are used here only to identify the case this design fits.
